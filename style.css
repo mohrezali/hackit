@@ -177,15 +177,15 @@ position:relative;background-color:darkgoldenrod;}
 
 
 @media all and (max-width:600px)
-{ body{margin-left:0%;}
-  .nim{width:97%;left:1%;;margin-left:0%;
+{ body{margin-left:0%;margin-top:0%;margin-bottom:0%;}
+  .nim{width:100%;left:0%;;margin-left:0%;
   border:solid black thick;max-height:200px;
     min-height:200px;margin-bottom:0%;margin-top:0%;}
   .nim >h1{text-align:center;font-size:400%;min-width:350px;}
 
  .beg{font-size:123%;min-height:50px;font-weight:500;
    font-family:"Times New Roman",Arial,monospace;border:groove black 2px;
- min-width:350px;}
+ min-width:350px;margin-top:2%;margin-bottom:2%;}
  #dib{padding-top:4%;}
  #cib{padding-top:4%;}
  #bib{padding-top:4%;}
