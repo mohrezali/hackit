@@ -177,7 +177,7 @@ position:relative;background-color:darkgoldenrod;}
 
 
 @media all and (max-width:600px)
-{ body{}
+{ body{margin-left:0%;}
   .nim{width:97%;left:1%;;margin-left:0%;
   border:solid black thick;max-height:200px;
     min-height:200px;margin-bottom:0%;margin-top:0%;}
